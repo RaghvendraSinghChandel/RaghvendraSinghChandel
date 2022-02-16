@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaghvendraSinghChandel
-- 👀 I’m interested in data anylatics and full stack development 
-- 🌱 I’m currently learning tenor flow and django 
+- 👀 I’m interested in data anaylatics and full stack development 
+- 🌱 I’m currently learning TensorFlow and django 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
